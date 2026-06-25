@@ -27,7 +27,6 @@
 
 ## Contact
 
-<!-- TODO: replace these placeholders -->
-✉️ &nbsp;Email — _add your email_
+✉️ &nbsp;[doavers@gmail.com](mailto:doavers@gmail.com)
 💼 &nbsp;LinkedIn — _add your LinkedIn URL_
 🌐 &nbsp;Personal site — _add your site URL_
