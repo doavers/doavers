@@ -28,5 +28,5 @@
 ## Contact
 
 ✉️ &nbsp;[doavers@gmail.com](mailto:doavers@gmail.com)
-💼 &nbsp;LinkedIn — _add your LinkedIn URL_
-🌐 &nbsp;Personal site — _add your site URL_
+💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/fyan-estu-widyantoro/)
+🌐 &nbsp;[doavers.com](https://doavers.com)
